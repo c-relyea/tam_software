@@ -1,8 +1,0 @@
-board:
-  name: tam_board
-  vendor: nordic
-  socs:
-  - name: 'nrf5340'
-    variants:
-    - name: 'ns'
-      cpucluster: 'cpuapp'
